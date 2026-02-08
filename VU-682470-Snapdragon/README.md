@@ -10,19 +10,19 @@ This repository provides a clinical record of the non-compliance and procedural 
 
 | Rule / Standard | Requirement | Status | Primary Evidence |
 | --- | --- | --- | --- |
-| **[CVE CNA Operational Rule 2.1.4](https://www.cve.org/resourcessupport/allresources/cnarules#section_2-1_Changes_to_CNA_Operational_Rules)** | Changes and processes MUST be documented in a transparent process | **BREACH** | [Exhibit 2](https://www.google.com/search?q=%23exhibit-2-admitted-off-record-collusion) |
-| **[CVE CNA Operational Rule 4.4.3](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-4_CNA_Judgment)** | Duty to err on the side of assignment when decisions are unclear. | **BREACH** | [Exhibit 3](https://www.google.com/search?q=%23exhibit-3-formal-procedural-impasse) |
-| **[CVE CNA Operational Rule 4.2.1.2](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-2_CVE_ID_Assignment)** | Root obligation to determine assignment after vendor refusal. | **BREACH** | [Exhibit 3](https://www.google.com/search?q=%23exhibit-3-formal-procedural-impasse) |
-| **[CVE CNA Operational Rule 4.4.3](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-4_CNA_Judgment)** | Requesting a simplified PoC after technical validation in Exhibit 1 = Failure to err on the side of assignment | **BREACH** | [Exhibit 4](https://www.google.com/search?q=%23exhibit-4-redundant-poc-and-delay-tactics) |
+| **[CVE CNA Operational Rule 2.1.4](https://www.cve.org/resourcessupport/allresources/cnarules#section_2-1_Changes_to_CNA_Operational_Rules)** | Changes and processes MUST be documented in a transparent process | **BREACH** | [Exhibit 2](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%202.png) |
+| **[CVE CNA Operational Rule 4.4.3](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-4_CNA_Judgment)** | Duty to err on the side of assignment when decisions are unclear. | **BREACH** | [Exhibit 3](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%203.png) |
+| **[CVE CNA Operational Rule 4.2.1.2](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-2_CVE_ID_Assignment)** | Root obligation to determine assignment after vendor refusal. | **BREACH** | [Exhibit 3](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%203.png)|
+| **[CVE CNA Operational Rule 4.4.3](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-4_CNA_Judgment)** | Requesting a simplified PoC after technical validation in Exhibit 1 = Failure to err on the side of assignment | **BREACH** | [Exhibit 4](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%204.png) |
 
 ---
 
 ## **Timeline of Non-Compliance**
 
-* **January 22, 2026:** Official notification to CISA of public disclosure [`0verdu/Phone_Home_Flaw`](https://github.com/0verdu/Phone_Home_Flaw) .
+* **January 30, 2026:** CISA takes over as Root CNA.
 * **February 2, 2026:** CISA Analyst Kevin Harwood confirms technical details are "sound".
 * **February 4, 2026:** CISA admits to off-record coordination with the supplier (Qualcomm).
-* **February 8, 2026:** Current Date. CISA remains in a state of active non-compliance (**14 days past the mandatory deadline**).
+* **February 8, 2026:** Current Date. CISA remains in a state of active non-compliance.
 
 ---
 
@@ -57,10 +57,5 @@ This repository provides a clinical record of the non-compliance and procedural 
 1. **Forensic Integrity:** Provided `.eml` file includes original DKIM/SPF headers for server-side verification of authenticity.
 2. **Visual Proof:** Screenshots from the CISA Case Portal are provided to document the verbatim admissions by agency personnel.
 
----
-
-**Filed by:** **Joseph Goydish II** *Independent Security Researcher* *Documenting for Public Safety and Program Integrity.*
 
 ---
-
-Would you like me to draft a summary of the technical hardware facts mentioned in Exhibit 3 (like the 40-count loop and hardware signatures) to include in the repository's documentation?
