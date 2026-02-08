@@ -10,7 +10,6 @@ This repository provides a clinical record of the non-compliance and procedural 
 
 | Rule / Standard | Requirement | Status | Primary Evidence |
 | --- | --- | --- | --- |
-| **[CVE CNA Operational Rule 2.1.4](https://www.cve.org/resourcessupport/allresources/cnarules#section_2-1_Changes_to_CNA_Operational_Rules)** | Changes and processes MUST be documented in a transparent process | **BREACH** | [Exhibit 2](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%202.png) |
 | **[CVE CNA Operational Rule 4.4.3](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-4_CNA_Judgment)** | Duty to err on the side of assignment when decisions are unclear. | **BREACH** | [Exhibit 3](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%203.png) |
 | **[CVE CNA Operational Rule 4.2.1.2](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-2_CVE_ID_Assignment)** | Root obligation to determine assignment after vendor refusal. | **BREACH** | [Exhibit 3](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%203.png)|
 | **[CVE CNA Operational Rule 4.4.3](https://www.cve.org/resourcessupport/allresources/cnarules#section_4-4_CNA_Judgment)** | Requesting a simplified PoC after technical validation in Exhibit 1 = Failure to err on the side of assignment | **BREACH** | [Exhibit 4](https://github.com/Intergalactic-Auditing-Services/CISA/blob/main/VU-682470-Snapdragon/Evidence/Exhibit%204.png) |
@@ -38,7 +37,7 @@ This repository provides a clinical record of the non-compliance and procedural 
 
 * **Source:** CISA Case Portal (2026-02-04).
 * **Key Actor:** CISA Analyst
-* **Description:** Documentation of CISA discussing the report with Qualcomm "outside of the case discussion". This non-transparent coordination bypasses the official CVE Program case log and represents a breach of procedural integrity.
+* **Description:** Documentation of CISA discussing the report with Qualcomm "outside of the case discussion". This non-transparent coordination bypasses the official CVE Program case log and represents a loss of procedural integrity.
 
 ### **Exhibit 3: Formal Procedural Impasse**
 
